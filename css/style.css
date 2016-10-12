@@ -1,0 +1,39 @@
+header {
+      	text-align: center;
+      	background: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/12804749_1058526360873600_5322480176815265475_n.jpg?oh=559004a91b6bc908bedc0558d8e55605&oe=58644400');
+      	background-size: cover;
+      	color: white;
+      }
+      div {
+        height:400px;
+      }
+      a {
+      	color: white;
+      }
+      h1 {
+      	 font-size: 30px;
+         color: blue;
+      }
+      
+
+      ul {
+      padding: 10px
+      background: rgba(0,0,0,0.5);
+      
+      }
+      li {
+      padding: 0px 10px 0px 10px;
+      display: inline;
+    }
+    footer {
+      text-align: : bottom left;
+      font-size: 10px;
+    }
+    button {
+      color; black
+      background: rgba(0,0,0,0.5);
+    }
+    p.bodyRed {
+      color: red;
+      font-family: sans-serif;
+    }
